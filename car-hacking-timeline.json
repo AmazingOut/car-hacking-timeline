@@ -3,7 +3,6 @@
     {
       "media": {
         "caption": "<a href=\"https://www.ccreports.com.cn/show-7-9771-1.html\">10万雪铁龙车主信息或遭泄露</a>",
-        "credit": "",
         "url": "https://www.dongfeng-citroen.com.cn/Pub/XueTieLong/images/cge_ea2aab7fbcd536885ac8ce3db756ad2e.png"
       },
       "text": {
@@ -19,7 +18,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.anquanke.com/post/id/82918\">神话鬼斧实验室：一个关于汽车防盗系统缺陷的研究</a>",
-        "credit": "",
         "url": "static/images/神话鬼斧.png"
       },
       "text": {
@@ -35,7 +33,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway\">Hackers Remotely Kill a Jeep on the Highway—With Me in It</a>",
-        "credit": "",
         "url": "https://media.wired.com/photos/593238a226780e6c04d2a5c8/master/w_1600%2Cc_limit/IMG_0724.jpg"
       },
       "text": {
@@ -51,7 +48,6 @@
     },{
       "media": {
         "caption": "<a href=\"http://jcarlosnorte.com/security/2016/03/06/hacking-tachographs-from-the-internets.html\">Hacking industrial vehicles from the internet</a>",
-        "credit": "",
         "url": "http://jcarlosnorte.com/assets/media/posts/C4max-365.png"
       },
       "text": {
@@ -67,7 +63,6 @@
     },{
       "media": {
         "caption": "<a href=\"http://jcarlosnorte.com/security/2016/03/06/hacking-tachographs-from-the-internets.html\">Hacking industrial vehicles from the internet</a>",
-        "credit": "",
         "url": "https://youtu.be/NSioTiaX_-Q"
       },
       "text": {
@@ -83,7 +78,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://twitter.com/0xRaindrop/status/864704956116254720\">2011 BMW 330i format string vuln</a>",
-        "credit": "",
         "url": "static/images/CVE-2017-9212.png"
       },
       "text": {
@@ -99,7 +93,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.wired.com/story/hackers-steal-tesla-model-s-seconds-key-fob\">Hackers Can Steal a Tesla Model S in Seconds by Cloning Its Key Fob</a>",
-        "credit": "",
         "url": "https://youtu.be/aVlYuPzmJoY"
       },
       "text": {
@@ -115,7 +108,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.sohu.com/a/259418261_391288\">网约车司机在大兴用充电桩漏洞偷充电</a>",
-        "credit": "",
         "url": "<iframe height=498 width=510 src='https://player.youku.com/embed/XMzg5MzUxNjkxNg==' frameborder=0></iframe>"
       },
       "text": {
@@ -131,7 +123,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://github.com/sgayou/subaru-starlink-research\">Jailbreaking Subaru StarLink</a>",
-        "credit": "",
         "url": "https://github.com/sgayou/subaru-starlink-research/raw/master/images/jailbreak_logo.png"
       },
       "text": {
@@ -163,7 +154,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program\">Cracking my windshield and earning $10,000 on the Tesla Bug Bounty Program</a>",
-        "credit": "",
         "url": "https://secureservercdn.net/198.71.233.25/623.f31.myftpupload.com/wp-content/uploads/2019/07/20190713_234612-1600x778.jpg"
       },
       "text": {
@@ -179,7 +169,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://rainbowtabl.es/2019/07/31/honda-motor-company-leak\">Honda Motor Company leaks database with 134 million rows of employee computer data</a>",
-        "credit": "",
         "url": "https://rainbowtabl.es/content/images/2019/07/index-ad_com_all-1.png"
       },
       "text": {
@@ -195,7 +184,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://techcrunch.com/2019/10/19/mercedes-benz-app-glitch-exposed\">Mercedes-Benz app glitch exposed car owners’ information to other users</a>",
-        "credit": "",
         "url": "https://techcrunch.com/wp-content/uploads/2019/10/benz-app.jpg"
       },
       "text": {
@@ -211,7 +199,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.regulus.com/blog/tesla-model-3-spoofed-off-the-highway-regulus-navigation-system-hack-causes-car-to-turn-on-its-own\">TESLA MODEL 3 SPOOFED OFF THE HIGHWAY – REGULUS NAVIGATION SYSTEM HACK CAUSES CAR TO TURN ON ITS OWN</a>",
-        "credit": "",
         "url": "https://youtu.be/390tANaEjl4"
       },
       "text": {
@@ -227,7 +214,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://v.qq.com/x/page/v304513meir.html\">在TESLA MODEL S上实现MARVELL无线协议栈漏洞的利用</a>",
-        "credit": "",
         "url": "<iframe frameborder=\"0\" src=\"https://v.qq.com/txp/iframe/player.html?vid=v304513meir\" allowFullScreen=\"true\"></iframe>"
       },
       "text": {
@@ -243,7 +229,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/\">Model Hacking ADAS to Pave Safer Roads for Autonomous Vehicles</a>",
-        "credit": "",
         "url": "https://youtu.be/4uGV_fRj0UA"
       },
       "text": {
@@ -259,7 +244,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.zdnet.com/article/mercedes-benz-onboard-logic-unit-olu-source-code-leaks-online\">Mercedes-Benz onboard logic unit (OLU) source code leaks online</a>",
-        "credit": "",
         "url": "https://www.zdnet.com/a/hub/i/2020/05/18/45ec4807-3e46-424f-b7d6-4a702a8e1325/daimler-telegram.png"
       },
       "text": {
@@ -291,7 +275,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://keenlab.tencent.com/zh/2020/03/30/Tencent-Keen-Security-Lab-Experimental-Security-Assessment-on-Lexus-Cars\">腾讯科恩实验室：雷克萨斯汽车安全研究综述报告</a>",
-        "credit": "",
         "url": "https://keenlab.tencent.com/zh/img/Tencent-Keen-Security-Lab-Experimental-Security-Assessment-on-Lexus-Cars/Replaced_Logo_4M.gif"
       },
       "text": {
@@ -307,7 +290,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://skygo.360.cn/mercedes-benz-research-report\">360 Sky-Go团队发布《梅赛德斯-奔驰安全研究报告》：19个漏洞，携手修复</a>",
-        "credit": "",
         "url": "https://skygo.360.cn/content/images/2020/07/daimlernews.jpg"
       },
       "text": {
@@ -323,7 +305,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.anquanke.com/post/id/213885\">特斯拉 NFC 中继攻击（CVE-2020-15912）</a>",
-        "credit": "",
         "url": "https://youtu.be/nn-_3AbtEkI"
       },
       "text": {
@@ -339,7 +320,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://www.imec-int.com/en/press/belgian-security-researchers-ku-leuven-and-imec-demonstrate-serious-flaws-tesla-model-x\">Belgian security researchers from KU Leuven and imec demonstrate serious flaws in Tesla Model X keyless entry system</a>",
-        "credit": "",
         "url": "https://youtu.be/clrNuBb3myE"
       },
       "text": {
@@ -355,7 +335,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://edition.cnn.com/2021/06/11/cars/vw-audi-hack-customer-information/index.html\">Volkswagen hack: 3 million customers have had their information stolen</a>",
-        "credit": "",
         "url": "https://youtu.be/lfEKEEVCK7Y"
       },
       "text": {
@@ -372,7 +351,6 @@
     {
       "media": {
         "caption": "<a href=\"https://kunnamon.io/tbone/\">TBONE – A zero-click exploit for Tesla MCUs</a>",
-        "credit": "",
         "url": "https://www.youtube.com/watch?v=krSj81thN0w"
       },
       "text": {
@@ -388,7 +366,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://keenlab.tencent.com/zh/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars\">腾讯科恩实验室：梅赛德斯-奔驰汽车信息安全研究综述报告</a>",
-        "credit": "",
         "url": "https://keenlab.tencent.com/zh/img/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/pic_2.gif"
       },
       "text": {
@@ -404,7 +381,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://driveteslacanada.ca/news/canadian-software-developer-discovers-bluetooth-key-vulnerability-that-allows-anyone-to-unlock-a-tesla\">Canadian software developer discovers Bluetooth key vulnerability that allows anyone to unlock a Tesla, fix deployed through OTA update</a>",
-        "credit": "",
         "url": "https://youtu.be/q0gNbtZWro0"
       },
       "text": {
@@ -420,7 +396,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://edition.cnn.com/2021/06/11/cars/vw-audi-hack-customer-information/index.html\">Volkswagen hack: 3 million customers have had their information stolen</a>",
-        "credit": "",
         "url": "https://youtu.be/lfEKEEVCK7Y"
       },
       "text": {
@@ -436,7 +411,6 @@
     },{
       "media": {
         "caption": "<a href=\"https://media.mbusa.com/releases/release-ee5a810c1007117e79e1c871352a4afa-mercedes-benz-usa-announces-initial-findings-of-data-investigation-affecting-customers-and-interested-buyers\">Mercedes-Benz USA Announces Initial Findings of Data Investigation Affecting Customers and Interested Buyers</a>",
-        "credit": "",
         "url": "https://wieck-mbusa-production.s3.amazonaws.com/photos/7605255d7da16bc8727901194da7f62a8100f5b6/preview-928x522.jpg"
       },
       "text": {
@@ -450,6 +424,5 @@
       },
       "group":"event"
     }
-    
   ]
 }
